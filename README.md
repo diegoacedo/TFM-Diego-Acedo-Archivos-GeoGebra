@@ -4,5 +4,5 @@ Este repositorio contiene archivos de GeoGebra dirigidos al aprendizaje de las f
 
 Estos applets han sido realizados para utilizarse en las actividades diseñadas dentro de la unidad didáctica diseñada dentro de este TFM, y que pueden encontrarse en el siguiente libro de GeoGebra: https://www.geogebra.org/m/mupdqdck 
 
-No obstante, pueden ser utilizados y adaptados para la realización de cualquier actividad por cualquier interesado con intereses no comerciales, bajo mención del autor.
+No obstante, pueden ser utilizados y adaptados para la realización de cualquier actividad bajo mención del autor.
  
